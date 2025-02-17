@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DStrobl97
 - 👀 I’m interested in python, web tech and other
-- 🌱 I’m currently learning ... python and app deployment
+- 🌱 I’m currently learning ... C# .NET 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
